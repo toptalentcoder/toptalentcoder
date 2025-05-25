@@ -14,7 +14,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILETOKEN }}
-          USERNAME: thetalentcoder
+          USERNAME: toptalentcoder
           SETTING_JSON: conf/github-profile-3d-contrib.json
       - name: push SVGs to the output-3d branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
