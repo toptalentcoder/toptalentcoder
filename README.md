@@ -1,26 +1,26 @@
 <!-- GitHub Profile -->
 
-<!-- [![thetalentcoder Nuxter profile](https://nuxters.nuxt.com/card/thetalentcoder/og.png)](https://nuxters.nuxt.com/thetalentcoder) -->
+<!-- [![toptalentcoder Nuxter profile](https://nuxters.nuxt.com/card/toptalentcoder/og.png)](https://nuxters.nuxt.com/toptalentcoder) -->
 
 
 <!--![Header] (./profileHeader.png) -->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thetalentcoder/thetalentcoder/output-3d-contrib/night_southern.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thetalentcoder/thetalentcoder/output-3d-contrib/day_southern.svg">
-    <img alt="GitHub Profile Contributions Chart" src="https://raw.githubusercontent.com/thetalentcoder/thetalentcoder/output-3d-contrib/day_southern.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toptalentcoder/toptalentcoder/output-3d-contrib/night_southern.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toptalentcoder/toptalentcoder/output-3d-contrib/day_southern.svg">
+    <img alt="GitHub Profile Contributions Chart" src="https://raw.githubusercontent.com/toptalentcoder/toptalentcoder/output-3d-contrib/day_southern.svg">
   </picture>
 </p>
 
 
 <p align="center">
   <img height="150" width="150" src="./images/WEBP/left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thetalentcoder&theme=solarized-light&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toptalentcoder&theme=solarized-light&hide_border=true"/>
   <img height="150" width="150" src="./images/WEBP/right.webp"/>
 </p>
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=thetalentcoder&theme=minimal​&hide_border=true&area=true)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=toptalentcoder&theme=minimal​&hide_border=true&area=true)
 
 <p align="center">
   <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@e9e4941d-19e8-4af6-809f-3bab169dbf0c/ea1b5280-a00a-4f63-a9fe-70b09edfc2d8.svg"/>
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thetalentcoder&theme=flat&margin-w=18&margin-h=18&column=9&border_radius=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=toptalentcoder&theme=flat&margin-w=18&margin-h=18&column=9&border_radius=15" />
 </p>
 
 
@@ -192,7 +192,7 @@ ________________________________________________________
 </p>
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/thetalentcoder/count.svg">
+<img src="https://profile-counter.glitch.me/toptalentcoder/count.svg">
 
 <p align="center">
 Tracking of visitors to this page commenced on April 1, 2025.
