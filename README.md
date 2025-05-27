@@ -2,7 +2,6 @@
 
 <!-- [![toptalentcoder Nuxter profile](https://nuxters.nuxt.com/card/toptalentcoder/og.png)](https://nuxters.nuxt.com/toptalentcoder) -->
 
-
 <!--![Header] (./profileHeader.png) -->
 
 <p align="center">
