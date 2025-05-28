@@ -22,11 +22,6 @@
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=toptalentcoder&theme=minimal​&hide_border=true&area=true)
 
 <p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@e9e4941d-19e8-4af6-809f-3bab169dbf0c/ea1b5280-a00a-4f63-a9fe-70b09edfc2d8.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@e9e4941d-19e8-4af6-809f-3bab169dbf0c/589a9ac2-59ce-4a7d-abb5-6c5309494fd9.svg" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=toptalentcoder&theme=flat&margin-w=18&margin-h=18&column=9&border_radius=15" />
 </p>
 
