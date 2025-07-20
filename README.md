@@ -203,7 +203,7 @@ Tracking of visitors to this page commenced on April 1, 2025.
 
   
 <p align="center">
-  <a href="mailto:benjamin.gray.dev@gmail.com">
+  <a href="mailto:alex.li.mapbox@gmail.com">
     <img src="https://img.icons8.com/color/52/000000/email.png" width="40" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -213,10 +213,6 @@ Tracking of visitors to this page commenced on April 1, 2025.
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/HealerDevOps">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/cid.91cfa8150ee0720">
-    <img src="https://img.icons8.com/color/52/000000/skype.png" width="40" height="40">
   </a>
 </p>
 
