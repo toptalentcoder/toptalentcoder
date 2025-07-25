@@ -185,13 +185,6 @@ ________________________________________________________
   <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
 </p>
 
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/toptalentcoder/count.svg">
-
-<p align="center">
-Tracking of visitors to this page commenced on April 1, 2025.
-</p>
-
 
 <p align="center">
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" style="vertical-align: middle;" />
