@@ -28,32 +28,7 @@
 
 </br>
 
-________________________________________________________
 
-
-<p align="center">
-<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/1.png"></a>
-<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/2.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/3.png"></a>
-</p>
-<p align="center">
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/4.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/5.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/6.png"></a>
-</p>
-<p align="center">
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/7.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/8.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
-</p>
-
-
-</br>
-
-
-________________________________________________________
-
-</br>
 
 <div align="center" style="margin: 20px 0;">
   <h1 style="font-size: 1.8rem; color: #2D88FF; margin-bottom: 10px;"><strong>My Skills</strong></h1>
@@ -183,30 +158,6 @@ ________________________________________________________
   <strong>Thanks for visiting</strong>
   <br>
   <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
-</p>
-
-
-<p align="center">
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" style="vertical-align: middle;" />
-  Connect With Me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" style="vertical-align: middle;" />
-</p>
-
-  <img width="100%" src="./images/line.gif">
-
-  
-<p align="center">
-  <a href="mailto:alex.li.mapbox@gmail.com">
-    <img src="https://img.icons8.com/color/52/000000/email.png" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/DtqthxBa">
-    <img src="https://img.icons8.com/color/52/000000/discord--v1.png" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/HealerDevOps">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40">
-  </a>
 </p>
 
 ![footer](./images/WEBP/footer.webp)
