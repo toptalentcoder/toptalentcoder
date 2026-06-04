@@ -21,9 +21,7 @@
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=toptalentcoder&theme=minimal​&hide_border=true&area=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toptalentcoder&theme=flat&margin-w=18&margin-h=18&column=9&border_radius=15" />
-</p>
+
 
 
 </br>
